@@ -1,13 +1,19 @@
-div > p{
-    background-color: blue;
-    color: white;
+h1{
+    color: aqua;
 }
-div > p:first-child{
-    background-color: yellow;
-    color: red; 
+.red{
+    color: red;
 }
 
-div article > p{
-    background-color: yellow;
+.blue{
+    color: blue ;
+}
+.purple{
+    color: purple ;
+}
+[data-x=a]{
+    background-color:darkorchid ;
+}
+h1.red{
     color: red;
-} 
+}
